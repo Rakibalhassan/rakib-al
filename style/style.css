@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+.quicksand-font {
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* shared style */
+.display-flex{
+    display: flex;
+}
+
+
+
+/* header styls */
+
+
+
+
+/* navbar styls */
+.navbar{
+    justify-content: space-between;
+    background-color: #f4f4f4;
+    align-items: center;
+    
+    
+}
+
+.nav-link{
+    text-decoration: none;
+
+}
+
+
+.nav-item{
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 400;
+}
+
+.btn-primary{
+    background-color: orange;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+}
+
+    
+    
+
+
+.text-home{
+    color: #FEA301;
+}
+
+
+.text-about{
+    color: #01ACFD;
+}
+
+
+.text-fac{
+    color: #05D4DF;
+}
+
+.text-ad{
+    color: #5D58EF;
+}
+
+.logo{
+    display: flex;
+    font-size: 20px;
+    
+}
+.span-1{
+    color: #FEA301;
+    font-size: 800;
+}
+.span-2{
+    color: #01ACFD;
+}
+.btn-enroll{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+}
+/* hero section */
+
+
+
+
+.hero-content{
+    max-width: 50%;
+    
+}
+.hero-content h1{
+    font-size: 36px;
+}
+
+.hero-bd{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+    
+}
+
+.hero-content p{
+    margin: 20px 0;
+}
+
+.link-1{
+    color: #64C8FF;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.link-2{
+    color: #F0AA00;
+    text-decoration: none;
+}
+.link-3{
+    color: #8700FF;
+    text-decoration: none;
+}
+
+
+/* section */
+.section{
+    background-color: burlywood;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    gap: 25px;
+    margin: 13px;
+    justify-content: center;
+}
+
+.card{
+    width: 325px;
+    background-color: #FFFFFF;
+    border-radius: 18px;
+    box-shadow: #64C8FF;
+    overflow: hidden;
+    margin: 20px;
+}
+
+.card-content{
+    color: #F0AA00;
+    padding: 10px 15px;
+}
+
+.btn{
+    background-color: #5D58EF;
+    color: brown;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline block;
+}
+.card image{
+    justify-content: center;
+}
+
+
+
+
+
