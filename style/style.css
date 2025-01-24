@@ -173,6 +173,26 @@
 }
 
 
+.main{
+    background-color:#FEA301 ;
+    
+}
+.div-container-2{
+    display: flex;
+    justify-content: center;
+    margin-top:100% 
+    flex-wrap: wrap;
+    
+    
+}
+.card-1{
+    width: 325px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+
 
 
 
